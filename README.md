@@ -15,9 +15,6 @@ The project focuses on frontend development and demonstrates my understanding of
 - Projects
 - Contact
 
-## Portfolio Preview
-![Portfolio Screenshot](assets/images/readme-image.png)
-
 ## Setup Steps
 1. Clone the repository
 2. Run `npm install`
