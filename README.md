@@ -7,7 +7,6 @@ The project focuses on frontend development and demonstrates my understanding of
 - React.js
 - Tailwind CSS
 - JavaScript
-- HTML & CSS
 
 ## Sections
 - About
