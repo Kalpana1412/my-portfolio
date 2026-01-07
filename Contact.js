@@ -9,10 +9,18 @@ const Contact = () => {
 
     emailjs
       .sendForm(
-        "service_47xcitq",
-        "template_zcdcu3f",
+        "service_szzep26",
+        "template_qait07v",
         form.current,
-        "HZv5B1Cx-swzVIyMP"
+        "qWwZu5b3chXJqsJb7"
+      )
+
+      emailjs
+      .sendForm(
+        "service_szzep26",
+        "template_ynsne4f",
+        form.current,
+        "qWwZu5b3chXJqsJb7"
       )
       .then(
         () => {
@@ -89,5 +97,6 @@ const Contact = () => {
     </section>
   );
 };
+
 
 export default Contact;
